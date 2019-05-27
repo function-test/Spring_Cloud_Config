@@ -1,0 +1,6 @@
+[submodule "Spring_Cloud_Config_Server"]
+	path = Spring_Cloud_Config_Server
+	url = https://github.com/function-test/Spring_Cloud_Config_Server.git
+[submodule "Spring_Cloud_Config_Client"]
+	path = Spring_Cloud_Config_Client
+	url = https://github.com/function-test/Spring_Cloud_Config_Client.git
